@@ -1,0 +1,3 @@
+/home/ahmetfk/CLionProjects/SwapAddress/cmake-build-debug/CMakeFiles/SwapAddress.dir
+/home/ahmetfk/CLionProjects/SwapAddress/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ahmetfk/CLionProjects/SwapAddress/cmake-build-debug/CMakeFiles/rebuild_cache.dir
